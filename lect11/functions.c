@@ -1,22 +1,22 @@
-#include<stdio.h>
+#include <stdio.h>
 
-//functions
-//sum function
+// sum Function
+// int add(int a, int b) {
+//     return a + b;  
+// }
 
-int sum(int a,int b){
-    int s=a+b;
-    return s;
-    printf("%d",s);
-}
-int main(){
-    int a,b;
-      printf("enter 1st no.");
-      scanf("%d",&a);
+// int main() {
+//     int num1, num2, sum;
 
-      printf("enter 1st no.");
-      scanf("%d",&a);
-      sum(a,b);
-      
+//     printf("Enter first number: ");
+//     scanf("%d", &num1);
 
-    
-}
+//     printf("Enter second number: ");
+//     scanf("%d", &num2);
+
+//     sum = add(num1, num2);
+
+//     printf("Sum = %d\n", sum);
+
+//     return 0;
+// }
