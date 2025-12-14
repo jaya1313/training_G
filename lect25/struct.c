@@ -6,5 +6,5 @@ struct student{
 };
 int main(){
     struct student s1;
-    
+    strcpy(s1.name,"hello");
 }
