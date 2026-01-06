@@ -3,29 +3,29 @@
 int main(){
 int a=5;
 int b=3;
-//int sum=a++ + ++b +--b +b-- + ++a;
-//printf("%d \n",sum);
+// int sum=a++ + ++b +--b +b-- + ++a;
+// printf("%d \n",sum);
 
 
 
 //if else
 
-/*if(a==5&&b>3){
-    printf("hello jaya!");
-}
-else{
-    printf("hii jaya!");
-}
+// if(a==5&&b>3){
+//     printf("hello jaya!");
+// }
+// else{
+//     printf("hii jaya!");
+// }
 
-int x;
-printf("enter a number to check whether even or odd");
-scanf("%d",&x);
-if(x%2==0){
-    printf("%d is even",x);
-}
-else{
-    printf("%d is odd",x);
-}*/
+// int x;
+// printf("enter a number to check whether even or odd");
+// scanf("%d",&x);
+// if(x%2==0){
+//     printf("%d is even",x);
+// }
+// else{
+//     printf("%d is odd",x);
+// }
 
 //questions
 
@@ -58,15 +58,15 @@ else{
  printf("enter 2nd number ");
  scanf("%d",&y);
 
- if(x>y){
-    printf("%d is greater",x);
- }
- else if(x<y){
-    printf("%d is greater",y);
- }
- else{
-   printf("both are equal");
- }
+//  if(x>y){
+//     printf("%d is greater",x);
+//  }
+//  else if(x<y){
+//     printf("%d is greater",y);
+//  }
+//  else{
+//    printf("both are equal");
+//  }
 return 0;
 }
 
