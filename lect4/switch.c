@@ -58,9 +58,4 @@ switch(day)
     printf("INVALID DAY");
     break;
 }
-
-
-
-
-
 }
